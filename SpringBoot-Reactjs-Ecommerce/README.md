@@ -1,6 +1,6 @@
 
 
-# 🛍️ Full Stack E-commerce Web Application
+#  Full Stack E-commerce Web Application
 
 A full-stack **E-commerce application** using **Spring Boot** (Java) for the backend and **ReactJS with Vite** for the frontend. This application demonstrates the integration of RESTful APIs with a modern frontend stack, ideal for learning and demonstration purposes.
 
@@ -132,4 +132,5 @@ Ecommerce-Frontend/
 * Dynamic rendering using React components
 * Fully responsive UI
 * Easy integration with further features (cart, checkout, login)
+
 
